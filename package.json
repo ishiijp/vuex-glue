@@ -1,6 +1,6 @@
 {
   "name": "vuex-glue",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A utility to enable portable Vuex Store.",
   "keywords": [
     "helper",
